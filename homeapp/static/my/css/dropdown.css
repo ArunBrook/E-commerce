@@ -1,0 +1,11 @@
+
+
+/* Style for the list container */
+        .list-container {
+            display: none;
+        }
+
+        /* Style for the button */
+        .show-list-button {
+            cursor: pointer;
+        }
